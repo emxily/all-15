@@ -179,4 +179,6 @@ public class GameBoard {
                DiagonalLeftSum() == 15 &&
                DiagonalRightSum() == 15;
     }
+    
 }
+
