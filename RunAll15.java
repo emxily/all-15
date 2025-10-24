@@ -1,4 +1,3 @@
-
 public class RunAll15 {
     public static void main(String[] args) {
         GameBoard gameBoard = new  GameBoard();     //New GameBoard object

@@ -34,6 +34,29 @@ Before you begin, ensure you have met the following requirements:
 ```java .\RunAll15.java```
 ```
 
+        2       4       7
+        5       3       1
+        8       6       9
+
+Enter a digit to move: 4
+Enter a digit to swap with: 6
+
+        2       6       7
+        5       3       1
+        8       4       9
+
+Board Not Complete!
+Row 1:                          15
+Column 1:                       15
+Row 2:                          9
+Column 2:                       13
+Row 3:                          21
+Column 3:                       17
+Diagonal Left:                  14
+Diagonal Right:                 18
+
+Enter a digit to move:
+. . .
 ```
 
 <br />
